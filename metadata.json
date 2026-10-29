@@ -1,0 +1,6 @@
+{
+  "name": "Where you want to go😎 - Elementary English Speaking App",
+  "description": "A fun and friendly English speaking app for elementary students to practice expressing travel wishes and reasons with cheerful character feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
